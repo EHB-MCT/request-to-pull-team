@@ -1,0 +1,23 @@
+{
+  "name": "request-to-pull-team",
+  "version": "1.0.0",
+  "description": "## opdracht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHB-MCT/request-to-pull-team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHB-MCT/request-to-pull-team/issues"
+  },
+  "homepage": "https://github.com/EHB-MCT/request-to-pull-team#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
