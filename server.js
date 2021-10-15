@@ -4,6 +4,9 @@ const PORT = 4000;
 
 app.use(express.json());
 
+app.get("/api/persoon1", (req, res) => {
+    res.send("Thanksss this is person 1");
+})
 
 app.get("/api/persoon3", (req, res) => {
     res.send("Thanksss this is person 3");
